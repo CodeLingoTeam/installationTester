@@ -1,2 +1,2 @@
 # installationTester
-Repository to test our Github client
+Repository to test our Github client.
